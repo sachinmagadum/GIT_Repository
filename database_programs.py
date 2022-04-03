@@ -1,3 +1,4 @@
+# Hi Its sample code for inserting data into database
 #example for git testing
 import psycopg2
 from psycopg2 import Error
@@ -92,5 +93,3 @@ def database_read():
 
 
 database_read()
-
-# added code for testing
