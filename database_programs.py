@@ -1,3 +1,4 @@
+# Hi Its sample code for inserting data into database
 import psycopg2
 from psycopg2 import Error
 
