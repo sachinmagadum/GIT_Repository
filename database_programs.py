@@ -1,4 +1,5 @@
 # Hi Its sample code for inserting data into database
+# I have this is master
 import psycopg2
 from psycopg2 import Error
 
