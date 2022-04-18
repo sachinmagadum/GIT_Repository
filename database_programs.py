@@ -1,8 +1,10 @@
 # Hi Its sample code for inserting data into database
+
+# Added few lines
 import psycopg2
 from psycopg2 import Error
 
-
+# second commit
 def database_connection():
     try:
         # Connect to an existing database
