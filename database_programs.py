@@ -20,7 +20,7 @@ def database_connection():
     except (Exception, Error) as error:
         print("Error while connecting to PostgreSQL", error)
 
-
+#function database
 def database_create_table_op():
     try:
         connection = database_connection()
